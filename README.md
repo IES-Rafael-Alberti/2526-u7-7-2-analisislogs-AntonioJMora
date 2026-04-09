@@ -241,14 +241,6 @@ Vamos, que parece pequeño, pero viene bien cargado de “cosas de verdad”.
 ---
 ---
 
-Perfecto. Te dejo el texto ya **redactado para pegar directamente en el enunciado**, incorporando:
-
-* la aclaración entre `--stats` y `--report`,
-* el comando de llamada en cada caso,
-* y ejemplos de salida para ambos modos.
-
----
-
 ## Diferencia entre `--stats` y `--report`
 
 El programa deberá permitir dos modos principales de salida: `--stats` y `--report`.
